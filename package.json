@@ -1,7 +1,6 @@
 {
-  "name": "language-cn-to-tw",
+  "name": "language-cn-to-tw-simon-loader",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -13,10 +12,11 @@
     "type": "git",
     "url": "git+https://github.com/liu2866345/language-cn-to-tw.git"
   },
-  "author": "simon",
+  "author": "liu2866345",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/liu2866345/language-cn-to-tw/issues"
   },
-  "homepage": "https://github.com/liu2866345/language-cn-to-tw#readme"
+  "homepage": "https://github.com/liu2866345/language-cn-to-tw#readme",
+  "description": ""
 }
