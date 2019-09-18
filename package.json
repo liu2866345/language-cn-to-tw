@@ -1,0 +1,22 @@
+{
+  "name": "language-cn-to-tw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liu2866345/language-cn-to-tw.git"
+  },
+  "author": "simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liu2866345/language-cn-to-tw/issues"
+  },
+  "homepage": "https://github.com/liu2866345/language-cn-to-tw#readme"
+}
